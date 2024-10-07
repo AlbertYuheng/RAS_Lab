@@ -1,0 +1,6 @@
+image: /home/chen/pathfinder/src/mbot_navigation/maps/c-map112201.pgm
+resolution: 0.05
+origin: [-5.00646, -2.8937, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
