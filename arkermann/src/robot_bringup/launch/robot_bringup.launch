@@ -1,0 +1,7 @@
+<launch>
+
+    <!-- 启动mbot -->
+    <node pkg="robot_bringup" type="robot_bringup" name="robot_bringup" output="screen" />
+    
+    
+</launch>
